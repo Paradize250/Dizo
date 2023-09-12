@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'andika';
+    src: url(../../font/Andika/Andika-Regular.ttf);
+}
+img{
+    width: 100%;
+}
+*{
+    box-sizing: border-box;
+    font-family: 'andika';
+}
+header{
+    margin-bottom: 2rem;
+}
+body{
+    margin: 0;
+}
