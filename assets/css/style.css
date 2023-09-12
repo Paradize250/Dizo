@@ -48,9 +48,20 @@ li{
 }
 #logo {
     color: rgb(2, 54, 94);
-    font-size: 30px;
+    font-size: 25px;
     padding-left: 10px;
-    font-weight: bold;
     letter-spacing: 3px;
-    
+}
+#header-img {
+
+    background-image: url();
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: rgb(2, 54, 94);
+
 }
