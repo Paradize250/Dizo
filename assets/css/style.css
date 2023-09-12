@@ -33,13 +33,20 @@ ul {
     justify-content: space-between;
     padding: 0;
     margin: 0;
+
 }
 li{ 
+    color: rgb(2, 54, 94);
     padding: 10px;
+
+}
+.home{
+    text-decoration: none;
 }
 #logo {
+    color: rgb(2, 54, 94);
     font-size: 30px;
     padding-left: 10px;
     font-weight: bold;
-    color: rgb(1, 20, 36);
+    
 }
