@@ -82,4 +82,5 @@ li{
 p{
     width: 50vh;
     text-align: center;
+    text-wrap: wrap;
 }
